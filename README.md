@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Iajor
+# Hello! 👋
+
+![https://pixel-art-gallery.tumblr.com/post/146052666054]
 - 👀 I’m interested in learning more about the tech world, looking for a career that excites me and challenges me intellectually.
 - 🌱 I’m currently learning about some areas that interest me like Back-End, Data Science, and Cybersecurity.
 - 💞️ I’m looking to collaborate on small projects in order to practice what i've learned.
