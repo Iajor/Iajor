@@ -1,7 +1,7 @@
 # Hello! 👋
 
 ## About me:
-<p align="justify">
+<p style="text-align:justify;">
 Hi, i'm André. Born and raised in Brazil, where i work and study each day to improve my abilities and knowlegde in creativity, communication, critical thinking, problem solving, teamwork, programmimg, data analysis, foreign language proficiency, software development, and more. Currently i'm looking to collaborate on small projects, while doing some of my own, so i can practice what i've learned and of course get to meet new people to talk about this ever changing world of technology.
 </p>
 
