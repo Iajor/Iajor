@@ -12,7 +12,7 @@ Hi, i'm André. Born and raised in Brazil, where i work and study each day to im
 <a href="https://instagram.com/rojaiandre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/andr%C3%A9-rojai-705751253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-[![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=iajor&theme=dark&include_all_commits=true&show_icons)](https://github.com/anuraghazra/github-readme-stats)
+[![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=iajor&theme=vue-dark&include_all_commits=true&show_icons)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
