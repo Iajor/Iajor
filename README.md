@@ -14,7 +14,7 @@ Hi, i'm André. Born and raised in Brazil, where i work and study each day to im
 
 [![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=iajor&theme=vue-dark&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iajor&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iajor&theme=vue-dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
