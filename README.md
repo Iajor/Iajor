@@ -7,14 +7,20 @@ Hi, i'm André. Born and raised in Brazil, where i work and study each day to im
 
 
 ## How to reach me:
+<div align="center">
+  <a href = "mailto:rjai.neto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="text-align : center"></a>
+  <a href="https://instagram.com/rojaiandre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-rojai-705751253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-<a href = "mailto:rjai.neto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/rojaiandre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andr%C3%A9-rojai-705751253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## My stats:
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iajor&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iajor&theme=vue-dark&hide_progress=true"/>
+</div>
 
-[![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=iajor&theme=vue-dark&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iajor&theme=vue-dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
