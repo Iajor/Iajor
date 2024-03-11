@@ -15,8 +15,8 @@ Hi, i'm André. Born and raised in Brazil, where i work and study each day to im
 
 ## My stats:
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iajor&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iajor&theme=vue-dark&hide_progress=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=iajor&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iajor&theme=vue-dark&hide_progress=true"/>
 </div>
 
 
