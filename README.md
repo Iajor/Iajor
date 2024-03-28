@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="gif" height="100" width="200" src="https://github.com/Iajor/Iajor/blob/main/extras/ezgif-2-b76ca410a9.gif">
+  <img alt="gif" src="https://github.com/Iajor/Iajor/blob/main/extras/ezgif-2-b76ca410a9.gif">
 </div>
 
 ## About me:
