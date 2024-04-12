@@ -10,22 +10,17 @@ Hi, i'm André. Born and raised in Brazil, where i work and study each day to im
 ## Languages and tools:
 <p align="justify">I have some knowlegde with the following and improving:</p>
 <div align="center">
-  <img alt="html5" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img alt="css3" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img alt="Javascript" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img alt="c" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img alt="cpp" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img alt="csharp" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img alt="java" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img alt="python" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img alt="rust" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg">
-  <img alt="nodejs" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img alt="spring" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img alt="mysql" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img alt="postgresql" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img alt="vscodeg" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img alt="intellij" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
-  <img alt="eclipse" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg">
 </div>
 
 
