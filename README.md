@@ -10,7 +10,6 @@ Hi, i'm André. Born and raised in Brazil, where i work and study each day to im
 ## Languages and tools:
 <p align="justify">I have some knowlegde with the following and improving:</p>
 <div align="center">
-  <img alt="Javascript" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img alt="c" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img alt="cpp" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img alt="java" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
