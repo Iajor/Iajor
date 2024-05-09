@@ -17,6 +17,7 @@ Hi, i'm André. Born and raised in Brazil, where i work and study each day to im
   <img alt="rust" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg">
   <img alt="spring" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img alt="mysql" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img alt="django" align="center" height="40 width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img alt="postgresql" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img alt="vscodeg" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img alt="intellij" align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
